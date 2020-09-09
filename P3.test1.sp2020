@@ -1,0 +1,5 @@
+declare x := 1 ;
+declare x := 2 ;
+{
+  declare y := 2 ;
+}

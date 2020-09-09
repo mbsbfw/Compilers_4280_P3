@@ -1,0 +1,7 @@
+declare x := 1 ;
+declare y := 2 ;
+{
+   y := 3 ;
+   out x ;
+  out 1 ;
+}
